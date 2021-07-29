@@ -16,3 +16,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> dev
 
 sdl;add
+learning git no-2
+git tag
